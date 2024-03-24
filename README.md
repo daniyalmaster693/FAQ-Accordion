@@ -1,5 +1,5 @@
 # FAQ-Accordion
-A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the challenge
+A basic HTML, CSS, and Javascript challenge from Frontend Mentor. This is the solution to the challenge
 
 <h2> Outcome </h2>
 
