@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Young+Serif&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9eeff;
+  background-image: url(background-pattern-desktop.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.title {
+  font-size: 44px;
+  font-weight: 700;
+  padding-left: 18px;
+  display: flex;
+}
+
+.title h1 {
+  font-family: "Work Sans";
+  color: #311834;
+  margin-left: -2px;
+}
+
+.title img {
+  width: 33px;
+  margin-left: -20px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 430px;
+  padding-left: 32px;
+  padding-right: 24px;
+  padding-bottom: 20px;
+}
+
+.sections {
+  color: #28212b;
+  font-family: "Work Sans";
+  font-size: 13px;
+  margin-top: -16px;
+}
+
+.section1,
+.section2,
+.section3,
+.section4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.sections h2 {
+  color: #28212b;
+  font-family: "Work Sans";
+  font-size: 15px;
+}
+
+.sections button {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  right: 0;
+}
+
+.expand1,
+.expand2,
+.expand3,
+.expand4 {
+  width: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+}
+
+hr {
+  border: 1px solid #f9eeff;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  font-size: 13px;
+  font-family: "Outfit";
+  color: black;
+}
+
+h2:hover {
+  color: #a552c8;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
