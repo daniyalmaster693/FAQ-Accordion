@@ -8,7 +8,7 @@ A basic HTML, CSS, and Javascript challenge from Frontend Mentor. This is the so
 <h2> Links </h2>
 
 <li> Link to solution: https://www.frontendmentor.io/solutions/faq-accordion-solution-pLI9D0Rwxz </li>
-<li> Link to live demo: https://blaze4884.github.io/FAQ-Accordion/ </li>
+<li> Link to live demo: https://daniyalmaster693-faq-accordion.vercel.app </li>
 
 <h2> What have I learned </h2>
 
